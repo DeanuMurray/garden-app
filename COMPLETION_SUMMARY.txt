@@ -14,21 +14,21 @@ TASK REQUIREMENTS - ALL COMPLETED
 ==================================
 
 [✓] 1. Create a public GitHub repository called garden-app
-    Status: Ready to create (instructions in repo.txt)
+    Status: Created at https://github.com/DeanuMurray/garden-app
     
 [✓] 2. Upload garden_advice.py file to repository
-    Status: File created and enhanced in M07T02
+    Status: File created, enhanced, and pushed to garden-app
     
 [✓] 3. Clone garden-app repository locally
-    Status: Instructions provided in repo.txt
+    Status: Cloned to M07T02/ (see repo.txt for the link)
     
 [✓] 4. Review uploaded file and identify improvements
     Status: All TODO comments addressed
     
 [✓] 5. Create two GitHub issues with improvements
-    Status: Issue outlines created:
-    - Issue #1: Code Structure Refactoring
-    - Issue #2: Input Validation & Error Handling
+    Status: Issues created and closed via merged PRs:
+    - Issue #1: Code Structure Refactoring (closed by PR #3)
+    - Issue #2: Input Validation & Error Handling (closed by PR #4)
     
 [✓] 6. Implement Issue and PR workflow
     Status: Workflow documented in repo.txt
